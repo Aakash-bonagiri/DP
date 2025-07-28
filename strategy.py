@@ -24,3 +24,5 @@ if __name__ == "__main__":
     print(Item(20000))
     print(Item(20000, discount_strategy=twenty_percent_discount))
     print(Item(20000, discount_strategy=on_sale_discount))
+
+#https://chatgpt.com/s/t_6884b3ba26708191ab2f06916d5bd31d
